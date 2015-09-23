@@ -8,6 +8,6 @@ Rough overview of the flow:
 loads the jobs from the "hardrive".
 - RAM gets loaded with the jobs
 - Short term scheduler pulls jobs from RAM and enters them into the readyQ
-- After which the cpu takes the jobs and procces them, including handling interupts and sending jobs into ioQ pr waitQ.
+- After which the cpu takes the jobs and procces them, including handling interupts and sending jobs into ioQ or waitQ.
 
 The programs main is Operating System.cpp

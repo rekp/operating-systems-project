@@ -1,3 +1,9 @@
+// File: Job.h
+// Author: Patrick Rek
+// Date : Summer 2014
+// Last Updated by: Patrick Rek 27/09/15
+// Description: Class for jobs within the simulated operating system.
+
 #pragma once
 #include <vector>
 #include <string>

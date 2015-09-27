@@ -1,3 +1,9 @@
+// File: myLongTermScheduler.h
+// Author: Patrick Rek
+// Date : Summer 2014
+// Last Updated by: Patrick Rek 27/09/15
+// Description: Long term scheduler class for simulated operating system.
+
 #pragma once
 #include <iostream>
 #include <vector>

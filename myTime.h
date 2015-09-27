@@ -1,3 +1,9 @@
+// File: myTime.h
+// Author: Patrick Rek
+// Date : Summer 2014
+// Last Updated by: Patrick Rek 27/09/15
+// Description: Time class for simulated operating system. Mainly for tracking performance of the program.
+
 #include <iostream>
 #include <time.h> 
 

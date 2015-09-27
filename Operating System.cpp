@@ -1,5 +1,8 @@
-// Operating System.cpp : Defines the entry point for the console application.
-//
+// File: Operating System.cpp
+// Author: Patrick Rek
+// Date : Summer 2014
+// Last Updated by: Patrick Rek 27/09/15
+// Description: Main for simulated operating system
 
 #include "stdafx.h"
 #include "myHardDrive.h"
@@ -183,7 +186,7 @@ int _tmain(int argc, _TCHAR* argv[])
 						{
 							readyQueue.add(temp.at(i));
 						}					
-					}
+					}st 
 				ticks++;
 				readyQueue.allWait();
 				waitQueue.allWait();

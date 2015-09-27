@@ -1,3 +1,10 @@
+// File: myTerminateQueue.h
+// Author: Patrick Rek
+// Date : Summer 2014
+// Last Updated by: Patrick Rek 27/09/15
+// Description: Terminate queue class for simulated operating system. Main purpose was to have a place to 
+//	store jobs which have finished for easier tracking.
+
 #pragma once
 #include <queue>
 #include <iostream>
